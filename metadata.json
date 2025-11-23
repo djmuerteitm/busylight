@@ -1,0 +1,5 @@
+{
+  "name": "Copy of M5Sync - Busy Light Architect",
+  "description": "A companion application to design, generate firmware for, and simulate a dual M5Stick-C busy light system using Gemini AI.",
+  "requestFramePermissions": []
+}
